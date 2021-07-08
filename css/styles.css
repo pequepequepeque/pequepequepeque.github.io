@@ -3,3 +3,8 @@ h1 {
   padding-bottom: 8px;
   border-bottom: 1px solid #ddd;
 }
+
+img {
+  width: 200px;
+  height: auto;
+}
